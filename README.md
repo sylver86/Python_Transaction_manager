@@ -113,7 +113,7 @@ This project sets the stage for further improvements and scalability. Planned en
 
 ## **Explore More**
 
-📂 Dive into the project codebase on GitHub to explore how Python's advanced features, modular design, and robust logging practices have been used to build a practical and effective household expense manager.
+📂 Dive into the project codebase on GitHub to explore how Python's advanced features, modular design, and robust logging practices have been used to build a practical and effective household expense manager.<br>
 View my code on ipynb files! Happy coding! ✨
 
 ---
